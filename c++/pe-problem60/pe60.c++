@@ -18,10 +18,10 @@
 
 
 
-#include	<stdlib.h>
-#include	<iostream>
-#include    <cmath>
-#include    <stdio.h>
+#include  <stdlib.h>
+#include  <iostream>
+#include  <cmath>
+#include  <stdio.h>
 using namespace std;
 
 int nlength(int n)
